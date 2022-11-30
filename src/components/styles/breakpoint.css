@@ -11,6 +11,9 @@
         margin-top: 40px!important;
         margin-bottom: 40px!important;
     }
+    .pageTitle {
+        padding-top: 40px;
+    }
 }
 
 @media (min-width: 600px) and (max-width: 1239px) {
@@ -26,6 +29,9 @@
         margin-top: 40px!important;
         margin-bottom: 40px!important;
     }
+    .pageTitle {
+        padding-top: 40px;
+    }
 }
 
 @media (min-width: 1240px) {
@@ -38,7 +44,10 @@
         margin-bottom: 72px!important;
     }
     .section {
-        margin-top: 90px!important;
+        margin-top: 80px!important;
         margin-bottom: 80px!important;
+    }
+    .pageTitle {
+        padding-top: 80px;
     }
 }

@@ -19,9 +19,10 @@ const Banner = props => {
               >
                 Healthcare Direct Messaging App For Your Needs
               </div>
-              <button
-                type="button"
+              <a
+                role="button"
                 class="btn btn-primary"
+                href="/highlights-and-my-account"
                 style={{
                   background: "#2FABE2",
                   border: "1px solid #2FABE2",
@@ -29,9 +30,10 @@ const Banner = props => {
                   padding: "16px 40px",
                   width: "180px",
                 }}
+                
               >
                 <span className="subtitle2">Explore Now</span>
-              </button>
+              </a>
             </div>
           </div>
           <div className="col-lg-6">

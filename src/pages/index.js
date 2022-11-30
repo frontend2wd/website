@@ -56,6 +56,7 @@ const IndexPage = () => (
   <Layout>
     <Banner />
     <div className="container d-flex flex-column" style={{ rowGap: "80px" }}>
+      <div className="h2 text-center" style={{marginTop: "120px"}}>Our Services</div>
       {serviceData.map(item => {
         return (
           <Service

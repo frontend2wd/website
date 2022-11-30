@@ -49,7 +49,7 @@ const featureData = {
       desc: "Highly secured interface for your personal information, WhatsDoc vets through every verified and trusted healthcare professional that is listed on the app, so stay assured that your health is in good hands.",
     },
   ],
-  link: "",
+  link: "/",
 }
 
 const IndexPage = () => (

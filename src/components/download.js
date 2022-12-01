@@ -18,14 +18,14 @@ const Download = props => {
             <a href="https://apps.apple.com/sg/app/whatsdoc-healthcare-for-all/id1529733122">
               <img
                 src="https://web-cdn-whatsdoc.s3.ap-southeast-1.amazonaws.com/2022/05/store-1.png"
-                class="img-fluid"
+                className="img-fluid"
                 alt="Responsive image"
               />
             </a>
             <a href="https://play.google.com/store/apps/details?id=com.whatsdoc.app&hl=en&gl=US">
               <img
                 src="https://web-cdn-whatsdoc.s3.ap-southeast-1.amazonaws.com/2022/05/store-2.png"
-                class="img-fluid"
+                className="img-fluid"
                 alt="Responsive image"
               />
             </a>
@@ -35,7 +35,7 @@ const Download = props => {
       <div className="col-lg-6">
         <img
           src="https://web-cdn-whatsdoc.s3.ap-southeast-1.amazonaws.com/2022/06/join.png"
-          class="img-fluid"
+          className="img-fluid"
           alt="Responsive image"
         />
       </div>

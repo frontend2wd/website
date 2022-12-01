@@ -24,7 +24,7 @@ const Highlight = props => {
         </div>
       </div>
       <div className="col-lg-6">
-        <img src={props.image} class="img-fluid" alt="Responsive image" />
+        <img src={props.image} className="img-fluid" alt="Responsive image" />
       </div>
     </div>
   )

@@ -26,12 +26,12 @@ const Feature = props => {
         style={{ gap: "24px" }}
       >
         {props.data.data.map((item, index) => {
-          return <FeatureItem title={item.title} desc={item.desc} key={index} />
+          return <FeatureItem title={item.title} desc={item.desc} />
         })}
       </div>
       <button
         type="button"
-        class="btn btn-outline-primary"
+        className="btn btn-outline-primary"
         style={{
           // background: "#2FABE2",
           border: "1px solid #2FABE2",

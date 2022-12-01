@@ -21,7 +21,7 @@ const Banner = props => {
               </div>
               <a
                 role="button"
-                class="btn btn-primary"
+                className="btn btn-primary"
                 href="/highlights-and-my-account"
                 style={{
                   background: "#2FABE2",
@@ -39,7 +39,7 @@ const Banner = props => {
           <div className="col-lg-6">
             <img
               src="https://web-cdn-whatsdoc.s3.ap-southeast-1.amazonaws.com/2022/05/Frame-1406.png"
-              class="img-fluid"
+              className="img-fluid"
               alt="Responsive image"
             />
           </div>

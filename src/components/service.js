@@ -23,7 +23,7 @@ const Service = props => {
           </div>
           <button
             type="button"
-            class="btn btn-outline-primary"
+            className="btn btn-outline-primary"
             style={{
               // background: "#2FABE2",
               border: "1px solid #2FABE2",
@@ -42,7 +42,7 @@ const Service = props => {
         </div>
       </div>
       <div className="col-lg-7">
-        <img src={props.image} class="img-fluid" alt="Responsive image" />
+        <img src={props.image} className="img-fluid" alt="Responsive image" />
       </div>
     </div>
   )
